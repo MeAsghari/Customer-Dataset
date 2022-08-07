@@ -42,3 +42,6 @@ MINIMUM_PAYMENTS : Minimum amount of payments made by user
 PRCFULLPAYMENT : Percent of full payment paid by user
 
 TENURE : Tenure of credit card service for user
+
+# Use:
+KMeans , GMM , Mini Batch Kmeans , Mean Shift , Hierarchical clustering , DBSCAN Clustring 
